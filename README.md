@@ -61,39 +61,3 @@ Apprendre les fondamentaux de Python, comprendre les concepts principaux et cré
 4. Passe ensuite dans `TP/` pour travailler par niveau.
 5. Continue dans `avanced/` et `cryptographie/`.
 6. Utilise `Help.md` comme aide-mémoire.
-
-## Commande Git pour relier le dépôt distant
-
-Si tu veux connecter ce projet à GitHub, utilise :
-
-```bash
-git remote set-url origin https://github.com/abshita/python-stagiaire.git
-```
-
-Ensuite :
-
-```bash
-git branch -M main
-git push -u origin main
-```
-
-## Conseils pour monter en compétence
-
-- Fais un exercice avant de passer au suivant.
-- Réécris les exemples avec tes propres valeurs.
-- Crée un mini projet personnel à la fin de chaque niveau.
-- Ne passe pas trop vite : la pratique est plus importante que la théorie.
-- Relis les messages d’erreur, ils te disent souvent la solution.
-
-## Astuce
-
-Pour progresser rapidement, essaie de refaire chaque fichier sans regarder le code, puis compare avec la solution.
-
-## Prochaine étape
-
-Quand tu auras terminé les bases et les TP, tu peux commencer à créer :
-- un gestionnaire de contacts
-- une calculatrice complète
-- une liste de tâches
-- un mini jeu
-- un projet personnel simple
